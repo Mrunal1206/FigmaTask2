@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FigmaTask/static/css/main.a09530d7.css",
+    "main.js": "/FigmaTask/static/js/main.8b9998e0.js",
+    "static/js/453.96453769.chunk.js": "/FigmaTask/static/js/453.96453769.chunk.js",
+    "static/media/Servicesblock.png": "/FigmaTask/static/media/Servicesblock.93536d811386193d089f.png",
+    "static/media/Testimonialsblock.png": "/FigmaTask/static/media/Testimonialsblock.ec2862fbc371184d21af.png",
+    "static/media/Processblock.png": "/FigmaTask/static/media/Processblock.a650baf17816dd8de470.png",
+    "static/media/Footerblock.png": "/FigmaTask/static/media/Footerblock.6094a2eb6c1d47c04726.png",
+    "static/media/Megaphone.png": "/FigmaTask/static/media/Megaphone.d9691bb46daa607f54c8.png",
+    "static/media/Subheading.png": "/FigmaTask/static/media/Subheading.2dad8fad14e7ed12353c.png",
+    "static/media/Heading.png": "/FigmaTask/static/media/Heading.ba9e8ff502fbbc7a93d8.png",
+    "static/media/Amazon.svg": "/FigmaTask/static/media/Amazon.35443645ec8f47000bf189451803bb96.svg",
+    "static/media/HubSpot.svg": "/FigmaTask/static/media/HubSpot.16fc39ad5068b55ee7ee0f485fdee48b.svg",
+    "static/media/Notion.svg": "/FigmaTask/static/media/Notion.c7939cbb3bf7ffc334b5c5a0704d7d05.svg",
+    "static/media/Netflix.svg": "/FigmaTask/static/media/Netflix.7eb256908075f19018507c1bc8bc0d53.svg",
+    "index.html": "/FigmaTask/index.html",
+    "static/media/frame.svg": "/FigmaTask/static/media/frame.83d66245ef4ff5aa9196d0ca1830ffd3.svg",
+    "main.a09530d7.css.map": "/FigmaTask/static/css/main.a09530d7.css.map",
+    "main.8b9998e0.js.map": "/FigmaTask/static/js/main.8b9998e0.js.map",
+    "453.96453769.chunk.js.map": "/FigmaTask/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a09530d7.css",
+    "static/js/main.8b9998e0.js"
+  ]
+}
