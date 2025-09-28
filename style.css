@@ -1,0 +1,31 @@
+body {
+  font-family: 'Inter', Arial, sans-serif;
+  background: #fff;
+  margin: 0;
+}
+
+.MuiButton-contained {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+.MuiButton-outlined {
+  border-color: #23272A;
+  color: #23272A;
+  font-weight: 600;
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+.MuiTypography-h2, .MuiTypography-h5 {
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+.MuiTypography-h3 {
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+.MuiTypography-h6 {
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+
